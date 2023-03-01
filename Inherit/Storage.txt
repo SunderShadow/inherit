@@ -1,0 +1,3 @@
+class Human|John|Vatson|
+class Teacher|Sherlock|Holmes|3|investigator-consultant|
+class Student|Mooley|Hooper|chemistry|
